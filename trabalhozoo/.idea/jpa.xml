@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PersistenceUnitSettings">
+    <persistence-units>
+      <persistence-unit moduleName="trabalhozoo" name="persist_zoo" framework="JPA" ormUnit="trabalhozoo:persist_zoo" defaultDataSourceId="9cd1f82a-0c36-4bfd-9766-56d03201b255" />
+    </persistence-units>
+  </component>
+</project>
